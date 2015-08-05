@@ -1,0 +1,4 @@
+What is the color of UM?,red,blue*,pink
+What is the color of MSU?,red,blue,green*
+What color is John Mellecamp's house?,red,blue,green,pink*
+What did Harbaugh do?punt,pass*,kick

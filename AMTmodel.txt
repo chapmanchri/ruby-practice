@@ -1,0 +1,22 @@
+Articulate (abstract) the AMT education model so it is easier for folks to see the key instructional components and how technology, content creation, etc. relate to/support the model. Also add the active collaboration modality (e.g., discussion supported by technologies such as LAMS) to the model. Also identify weak points or areas in the model to evaluate. For example, the AMT model is for advanced learners who have already learned (supposedly) core concepts and knowledge - how would we expand the model to incorporate this type of learning?  I've also heard from a few students that the case model is too involved? Is this true for some folks? Most folks? True or not true depending upon where a learner is in the learning cycle (e.g., beginner vs. intermediate learner) . We also need to get the course evaluation data for this course form Joel Purkis from the last 3 years.
+
+Arranged a meeting with Cary and Barry Fishman (GradeCraft). IMHO the GradeCraft model is the future of education and EXACTLY where the medical school wants to go with a curricular approach (based on my conversations with Raj and Tony Tsai). Starting to explore this space with the AMT course is a modest, practical way to start on this path. At some point (after we meet with Barry), Raj needs to made aware of this. Timing is everything on this though. We will need to talk this through.
+
+Supported the Tuesday evening US Healthcare video conference. It went extremely well. All of our planning and practice with @marcstephens, Matt Davis, Michael Rubyon paid off. I think we found how to use the technology in as a hand's off approach as possible. We also found out that folks are more than capable of using this technology as students with very little effort and instructors with MODEST faculty development.
+
+Search
+
+http://www.lmunet.edu/tomec/files/assessment_and_feedback_for_residents_and_students.pdf
+
+Miller's Pyramid of Assessment provides a framework for assessing clinical competence in medical education and can assist clinical teacher in matching lering outcomes (clinical competencies) with expectations of what the learner should be able to do at any stage
+
+Miller's Pyramid
+knows - knowledge tested by written exams (COGNITION)
+knows how - application of knowledge: tested by clinical problem solving, etc. AMT (COGNITION)
+shows how - demonstration of clinical skills: tested by OSCE, standardized exams, etc.  (competency) (BEHAVIOR)
+does - daily patient care:assessd by direct observation in clinical setings (performance) (BEHAVIOR)
+
+Adapted from: Ramani S, Leinster S, AMEE Guide no 34: Teaching in the clinical environment.
+Medical Teacher, 2008:30(4):347-364. 
+
+6 hats page, deb rooney page, neurologic page, 
